@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Mike Pouncy](@mpouncy-panda)
+- 👋 Hi, I’m [Mike Pouncy](https://github.com/mpouncy-panda)
 
 <!---
 mpouncy-panda/mpouncy-panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
